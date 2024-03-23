@@ -1,0 +1,40 @@
+.bg-image {
+    background-image: url('https://t3.ftcdn.net/jpg/06/76/98/70/360_F_676987000_E2MmZqzNy39Ec9PSRW0k7IyOfGtj0IXX.jpg');
+    min-height: 100vh;
+    min-width: 100vw;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.btn-custom-bg {
+    background-color: #553523;
+}
+.btn-custom-bg:hover {
+    background-color: #D8A268;
+}
+.login-box {
+    background-color: rgba(241, 173, 157, 0.7);
+    height: 25rem;
+    width: 30rem;
+    margin: 3rem auto;
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+    color: rgb(249, 249, 249);
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+
+.login-form {
+    margin-top: 4.5rem;
+    text-align: left;
+    border-left: 2px solid rgb(255, 255, 255);
+
+}
+
+.sign-up {
+    margin-top: 8rem;
+    /* border-right: 2px solid black; */
+}

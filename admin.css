@@ -1,0 +1,164 @@
+/* admin/home.css */
+.bg-custom {
+    background-color: #ac5d2f;
+}
+.alert-primary {
+    background-color:#DFB394;
+}
+
+
+.navbar-nav {
+    margin-right: 6rem;
+}
+
+.navbar {
+    min-height: 8vh;
+}
+.dropdown-item{
+    background-color: #ffffff;
+}
+.dropdown-menu .dropdown-item-active {
+    background-color: #E2B38B;
+}
+
+
+.display-2{
+    color:white;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+.custom-bg {
+    background-color: #D8A268;
+}
+.text-custom-color {
+    color: #DFB394;
+}
+
+.icon-custom-color {
+    color: #DFB394;
+}
+
+.sidebar {
+   
+    min-height: 100vh;
+    padding-top: 5rem;
+    padding-left: 3rem;
+    font-size: 1.3rem;
+    position: fixed;
+    z-index: 1;
+    overflow-x: hidden;
+}
+
+.sidebar a:visited {
+    text-decoration: none;
+}
+
+.sidebar a:hover {
+    text-decoration: none;
+}
+
+.content {
+    
+    margin-top: 1rem;
+    position: relative;
+    left: 16%;
+}
+
+
+/* admin/books.css */
+
+.dropbar {
+    margin-right: 7rem;
+}
+
+.search-bar {
+    margin-top: 2rem;
+}
+
+
+/* admin/profile.css */
+
+.profile-content {
+    /* background-color: #343A40; */
+    background-color: #E2B38B;
+    height: 35rem;
+    margin-left: 2rem;
+    float: left;
+    /* opacity: 0.5; */
+    color: black;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.profile-content hr {
+    background-color: grey;
+}
+
+.profile-content a:visited {
+    color:#553523;
+    text-decoration: none;
+}
+
+.profile-content a:hover {
+    text-decoration: none;
+    color:brown;
+}
+
+.profile-pic {
+    width: 25rem;
+    padding-left: 2rem;
+}
+
+
+/* admin/books/add.css */
+
+.books-content {
+    /* background-color: #343A40; */
+    background-color: #CCE5FF;
+    height: 46rem;
+    margin-left: 2rem;
+    float: left;
+    /* opacity: 0.5; */
+    color: black;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+/* admin/changepass.css */
+
+.change-password {
+    /* background-color: #343A40; */
+    background-color: #EDC3A1;
+    height: 25rem;
+    margin-left: 2rem;
+    margin-top: 5rem;
+    float: left;
+    /* opacity: 0.5; */
+    color: black;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+/* admin/customers/add.css */
+
+.modify-customer {
+    /* background-color: #343A40; */
+    background-color: #CCE5FF;
+    height: 42rem;
+    margin-left: 2rem;
+    float: left;
+    /* opacity: 0.5; */
+    color: black;
+    padding-top: 2rem;
+    text-align: center;
+}
+.btn-custom-bg {
+    background-color: #553523;
+}
+.btn-custom-bg:hover {
+    background-color: #D8A268;
+}
+
+.gender {
+    width: 20rem;
+    margin: auto;
+}
